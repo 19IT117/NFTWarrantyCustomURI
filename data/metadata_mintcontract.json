@@ -1,0 +1,27 @@
+{
+  "name":"token1Warranty",
+  "image" : "https://ipfs.io/ipfs/QmfGkH3VyCqvhSns8yKRAcZKswSeUGV2qamJ7GiFj4q61p",
+  "attribute" : [
+    {
+      "trait_type" : "deviceType",
+      "value" : "MobilePhone"
+    },
+    {
+      "trait_type" : "model",
+      "value" : "Y31"
+    },
+    {
+      "trait_type" : "soldby",
+      "value" : "0xE79cf5C269480cdD0f58509Be2Af1094d70E0bD8"
+    },
+    {
+      "trait_type" : "timestamp",
+      "value" : "1234567890"
+    },
+    {
+      "trait_type" : "deviceID",
+      "value" : "ABCDEF123456"
+    }
+
+  ]
+}
